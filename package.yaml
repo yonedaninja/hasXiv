@@ -26,6 +26,7 @@ dependencies:
     - bytestring
     - hxt
     - hxt-http
+    - async
 # extra-deps:
 #     - hxt-xpath
 
